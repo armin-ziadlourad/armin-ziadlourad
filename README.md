@@ -4,7 +4,7 @@
 
 I'm currently in data analytics at Pantheon Ventures, a private markets investor, and completing an MSc in Business Analytics and AI at Imperial College London.
 
-My background is in astrophysics, early-stage deeptech and space investing and ESG data analysis.
+My background is in astrophysics, early-stage space investing and ESG data analysis.
 
 **What I'm interested in**
 - Climate tech and deeptech venture capital
